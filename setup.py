@@ -11,7 +11,7 @@ setuptools.setup(
      author_email="lm348@duke.edu and zz161@duke.edu",
      description="Bayesian Hierachichal Clustering using Heller's article",
      url="https://github.com/AzucenaMV/STAT-663",
-     packages=setuptools.find_packages(['numpy','itertools','scipy','functools']),
+     packages=setuptools.find_packages(),
      classifiers=[
          "Programming Language :: Python :: 3",
          "License :: OSI Approved :: MIT License",
