@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-     name='BayesianClustering663',  
+     name='BHCAA',  
      version='0.1',
      author="Azucena Morales<lm348@duke.edu>, Alan Zhou<zz161@duke.edu>",
      author_email="alanazu@googlegroups.com",
